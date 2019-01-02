@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1240 343" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(2,0,0,2,-58.4539,-53.2567)">
+        <g transform="matrix(0.916952,0,0,0.653127,0,0)">
+            <g transform="matrix(19.1046,0,0,26.8217,-3415.33,-6472.07)">
+                <clipPath id="_clip1">
+                    <rect x="180.439" y="242.82" width="35.367" height="9.885"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <text x="180.151px" y="252.399px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">SP<tspan x="192.081px 198.175px " y="252.399px 252.399px ">AC</tspan>ER</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
