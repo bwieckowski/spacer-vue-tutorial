@@ -1,11 +1,15 @@
 <template>
-    <div class="home">
-        <h1>Spacer</h1>
+    <div>
+
     </div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
-};
+    name: 'about'
+}
 </script>
+
+<style scoped>
+
+</style>
