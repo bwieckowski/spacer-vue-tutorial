@@ -11,5 +11,10 @@ export default new Router({
       name: 'search',
       component: Search,
     },
+    {
+      path: '/about',
+      name: 'about',
+      component: About,
+    },
   ],
 });

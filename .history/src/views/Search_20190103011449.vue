@@ -50,7 +50,7 @@ export default {
   flex-direction: column;
   -webkit-align-items: center; /* Safari 7.0+ */
   align-items: center;
-  justify-content:center;
+  justify-content: 
   margin: 0;
   padding: 30px;
   height: 100vh;
