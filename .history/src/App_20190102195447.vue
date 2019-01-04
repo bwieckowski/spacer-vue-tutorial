@@ -1,0 +1,17 @@
+<template>
+  <div id="app">
+    <div class="nav">
+      <router-link to="/">spacer</router-link>
+      <router-link to="/about">about</router-link>
+    </div>
+  <router-view/>
+  </div>
+</template>
+<style lang="scss" scoped>
+*{
+  box-sizing:border-box;
+}
+body{
+font-family: 'Mont'
+}
+</style>
