@@ -12,14 +12,12 @@
       <transition name="fade">
             <heroImage v-if="step === 0 " />
       </transition>
-     <div v-if="step===1 && loading"class="loader"><div></div><div></div></div>
+     <div v-if="step===1 && loading" class="loader"><div></div><div></div></div>
       <div class="results"  v-if="results && !loading && step === 1">
           <Item v-for="item in results" :key="item.data[0].nasa_id" :item="item"
 @click.native="handleModalOpen(item)" />
       </div>
-
     </div>
-   
     <Modal v-if="modalOpen" :item="modalItem" @closeModal="modalOpen = false"/>
   </div>
 </template>
